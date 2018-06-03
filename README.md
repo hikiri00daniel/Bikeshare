@@ -5,3 +5,13 @@ Bikeshare users in the Bay Area. The Bikeshare dataset comes from Bikeshare, a c
 or daily fee. The goal was to predict the cost profit on any given day given the weather pattern.
 
 The main collaborators of the project was Daniel Man, Daniela Barrera Mejia, and Avi Rynderman.
+
+Work was split as followed:
+
+Daniel: Preprocessing, Clustering
+
+
+Daniela: Random Forest
+
+
+Avi:
