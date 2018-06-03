@@ -14,4 +14,4 @@ Daniel: Preprocessing, Clustering
 Daniela: Random Forest
 
 
-Avi:
+Avi: Decision Tree
